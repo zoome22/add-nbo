@@ -7,7 +7,6 @@ int main(int argc, char** argv) {
 	FILE* fp1;
 	FILE* fp2;
 	uint32_t  num1, num2;
-	char a,b;
 	
 	//argc!=3 -> exit 1
 	if(argc!=3){
